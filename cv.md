@@ -17,9 +17,9 @@ HTML 5, CSS 3, JavaScript, VSCode, Git, github, developer tools
 * See my code on my github page at https://github.com/purplelipstick/
 
 ### Education:
-* ITMO University, specialist degree in Information security 
-* ITMO University, masters degree in Information disign 
-* Cours Frontend engeneer in RS School 
+* ITMO University, Specialist degree in Information security 
+* ITMO University, Master's degree in Information design  
+* "Frontend engineer" course at RS School 
 
 ### English: 
 A2-B1  
