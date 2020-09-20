@@ -14,7 +14,7 @@ HTML 5, CSS 3, JavaScript, VSCode, Git, github, developer tools
 
 ### Experience:
 * I worked as a QA Engeneer for 2 years
-* Please see my code on my github page at https://github.com/purplelipstick/
+* See my code on my github page at https://github.com/purplelipstick/
 
 ### Education:
 * ITMO University, specialist degree in Information security 
