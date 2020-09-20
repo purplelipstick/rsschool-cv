@@ -22,6 +22,6 @@ HTML 5, CSS 3, JavaScript, VSCode, Git, github, developer tools
 * Cours Frontend engeneer in RS School 
 
 ### English: 
-A2-B1
+A2-B1  
 My previous position at Wrike required English knowledge to write test cases and bug reports, and communicate with foreign employees. 
 Also, I'm studying english with a teacher to improve it.
