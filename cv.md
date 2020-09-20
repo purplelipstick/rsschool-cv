@@ -1,5 +1,5 @@
 # Junior Frontend Developer
-Elena Ivanova
+Elena Ivanova  
 *Saint Petersburg*
 
 ### Contact Info:
